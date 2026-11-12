@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: |cff33ccff制造利润|r CraftProfit
+## Notes: 拍卖行物价与专业制造联动：算出每个配方的材料成本、拍卖行售价和利润；实时记录金币收支。
+## Author: lzy
+## Version: 1.4.0
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+## SavedVariables: CraftProfitDB
+
+Util.lua
+Pricing.lua
+Sales.lua
+Quant.lua
+Scanner.lua
+QuickScan.lua
+Recipes.lua
+UI.lua
+Ledger.lua
+LedgerUI.lua
+QuantUI.lua
